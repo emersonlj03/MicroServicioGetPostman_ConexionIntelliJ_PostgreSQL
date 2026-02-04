@@ -30,5 +30,6 @@ Este proyecto es un **microservicio funcional** desarrollado en Java que demuest
 * `Model / Entity`: Representación de las tablas de PostgreSQL como clases de Java.
 * `Repository`: Interfaz para operaciones CRUD automáticas mediante Spring Data.
 * `Resources`: Configuración de la cadena de conexión (JDBC) y parámetros del servidor.
+* Data
 
 
