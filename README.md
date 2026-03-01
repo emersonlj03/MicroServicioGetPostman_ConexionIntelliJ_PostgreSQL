@@ -31,6 +31,6 @@ Este proyecto es un **microservicio funcional** desarrollado en Java que demuest
 * `Repository`: Interfaz para operaciones CRUD automáticas mediante Spring Data.
 * `Resources`: Configuración de la cadena de conexión (JDBC) y parámetros del servidor.
 
-  Proy
+  Proye
 
 
